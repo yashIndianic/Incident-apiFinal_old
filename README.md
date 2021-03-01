@@ -8,7 +8,7 @@
 * Clone this repository by typing `git clone https://github.com/yashIndianic/Incident-api.git {YOUR_PROJECT_NAME}` 
 * type `cd {YOUR_PROJECT_NAME}`
 * type `composer install`
-* type `cp .env.example .env`
+* type `cp env.example .env`
 
 * Update *.env* file :
    * set DB_CONNECTION
